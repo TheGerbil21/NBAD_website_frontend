@@ -10,7 +10,7 @@ title: NBAD Website
 description: The hub to store and display our awesome NBA data.
 github_username: TheGerbil21
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "NBAD_website"
+github_repo: "frontend"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
